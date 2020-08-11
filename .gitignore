@@ -1,0 +1,4 @@
+/data
+/pgadmin
+.env
+docker-compose.prod.yml
